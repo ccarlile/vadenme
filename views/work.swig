@@ -6,12 +6,12 @@
 I learned C++ and C in college but never did anything with them other than inverting binary trees and making mazes. My first real experience with programming came after learning Python at the Institute for Intelligent Systems. Along with all manner of parsers, scrapers, and crawlers, I made a program that draws Digraphs using semantic information called ConceptDraw. You can check it out on my <a href="http://github.com/ccarlile/ConceptDraw">Github</a>.
   </div>
   <div class="col-md-3">
-PICTURE OF CDRAW
+<img src="/img/concept.png" width="100%">
   </div>
 </div>
 <div class="row stacked-content">
   <div class="col-md-3 col-md-offset-3">
-Picture of Lokel
+<img src="/img/lokelcode.png" width="100%">
   </div>
   <div class="col-md-3">
 I made a social network and learned lots of hard lessons about web and app development, not the least of which is that
