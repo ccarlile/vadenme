@@ -23,7 +23,7 @@ an AWS micro instance is not large enough to run an express app and Mongo databa
   I clearly also make websites. I like Angular, Bootstrap, JQuery, and Node. Portfolio coming soon
 </div>
 <div class="col-md-3">
-  Pic of website
+<a href="http://oko.space"><img src="/img/webprev.png" width="100%"></a>
 </div>
 </div>
 <div class="row stacked-content">
