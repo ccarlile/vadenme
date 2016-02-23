@@ -1,0 +1,31 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a {
+  color: #4c4a45;
+}
+a:hover,
+a.hover {
+  color: #756d68;
+}
+.active {
+  color: #4c4a45;
+  text-decoration: underline;
+}
+.active:hover,
+.active.hover {
+  color: #4c4a45;
+}
+.inactive {
+  color: #0f0f0D;
+}
+.inactive.hover {
+  color: #0f0f0d;
+}
+.blue {
+  color: #0000FF;
+}
+.stacked-content {
+  padding-top: 20px;
+}
